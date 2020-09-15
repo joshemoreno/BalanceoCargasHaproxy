@@ -1,10 +1,8 @@
 #!/bin/bash
 # echo "instalando LXD"
 # sudo snap install lxd
-# echo "creando nuevo grupo LXD"
-# sudo lxd init
 # echo "iniciando grupo LXD"
-# lxd init --auto
+# sudo lxd init
 # echo "creando el contenedor web1"
 # lxc init ubuntu:20.04 web1 --target web1
 # echo "creando el contenedor backup1"
